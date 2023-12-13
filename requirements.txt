@@ -1,3 +1,0 @@
-pandas<=2.0.0
-streamlit<=1.29.0
-pickle==4.0
